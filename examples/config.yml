@@ -1,3 +1,0 @@
-src:
-  .md: [.html, build_md.rb]
-  dir: [index.html, build_dir.rb]
